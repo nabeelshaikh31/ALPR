@@ -9,7 +9,7 @@ pip install opencv-python
 For Linux:
 sudo apt install python3-opencv
 
-NumPy:-
+### NumPy:-
 For Windows:
 pip install numpy
 
