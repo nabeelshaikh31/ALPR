@@ -35,7 +35,7 @@ The test video should be added in the "Input" folder.
 
 Open the terminal.
 
-cd VLPD
+cd VLPR
 
 python videoframe.py
 
