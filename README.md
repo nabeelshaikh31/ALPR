@@ -2,7 +2,7 @@
 
 ## Prerequisite Packages
 
-OpenCV:-
+### OpenCV:-
 For Windows:
 pip install opencv-python
 
