@@ -18,9 +18,12 @@ sudo apt install python-numpy
 
 ## Code & Files
 ### Our project performs the following steps:
-Frame extraction from video - Done by videoframe.py. \n
-License plate extraction - Done by plateDetect.py. /n
+Frame extraction from video - Done by videoframe.py.
+
+License plate extraction - Done by plateDetect.py. 
+
 License plate Recognition - Done by detectchar.py.
+
 Creates a folder wherein the extracted license plate number is stored.
 
 ### How to run our project:
